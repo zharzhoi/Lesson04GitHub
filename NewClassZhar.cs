@@ -10,6 +10,6 @@ namespace Lesson04GitHub
     {
         public NewClassZhar()
         {
-            Console.WriteLine("Команда разработчиков master 2")
+            Console.WriteLine("Команда разработчиков master")
         }
 }
